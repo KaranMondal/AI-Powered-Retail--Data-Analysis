@@ -99,7 +99,7 @@ The dashboard is designed for a business user who wants to answer questions such
 ### 1. Clone or open the project
 
 ```powershell
-git clone <your-repository-url>
+git clone https://github.com/KaranMondal/AI-Powered-Retail--Data-Analysis.git
 cd AI-Powered-Retail--Data-Analysis
 ```
 
